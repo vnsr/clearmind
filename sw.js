@@ -1,5 +1,5 @@
 /* Clear Mind service worker — caches the app for offline use. Bump VERSION when files change. */
-const VERSION = "clearmind-v1";
+const VERSION = "clearmind-v2";
 const ASSETS = ["./", "./index.html", "./app.js", "./content.js", "./manifest.webmanifest",
   "./fonts/Lora-Variable.woff2", "./fonts/Lora-Italic-Variable.woff2",
   "./icons/icon-192.png", "./icons/icon-512.png", "./icons/maskable-512.png", "./icons/apple-touch-icon.png"];
